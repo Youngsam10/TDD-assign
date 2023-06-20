@@ -1,0 +1,21 @@
+{
+  "name": "devsetup",
+  "version": "1.0.0",
+  "description": "a basic working environment",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Testing",
+    "TDD",
+    "Javascript",
+    "node-js"
+  ],
+  "author": "Cynthia",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
